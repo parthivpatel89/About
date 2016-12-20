@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1023843281896",
+    "firebase_url": "https://parthivpatel-718b7.firebaseio.com",
+    "project_id": "parthivpatel-718b7",
+    "storage_bucket": "parthivpatel-718b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023843281896:android:5cf066cd91d44b15",
+        "android_client_info": {
+          "package_name": "com.patel.parthivpatel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023843281896-lqjp6lumgd5grtgj2ikfqook4c43vfj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeIej57M6nX4WNtf0esCwDzujSC5rU2hI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
